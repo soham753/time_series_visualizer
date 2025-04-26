@@ -1,6 +1,5 @@
 from time_series_visualizer import draw_line_plot, draw_bar_plot, draw_box_plot
 
-# Run and save plots
 fig1 = draw_line_plot()
 fig1.savefig('line_plot.png')
 
